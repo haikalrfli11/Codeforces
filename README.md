@@ -1,2 +1,2 @@
 # Codeforces
-Repository for storing my codeforces solution
+Repository for storing my codeforces solution and the explanation
