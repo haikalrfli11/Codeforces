@@ -9,12 +9,12 @@ int main() {
   string u;
   cin >> t;
   cin >> u;
-  string s = "";
+  string temp = "";
   for(int i = t.length()-1; i>=0 ;i--) {
-    s+= t[i];
+    temp+= t[i];
   }
 
-  if(s == u) {
+  if(temp == u) {
   cout << "YES";
 }else {
   cout << "NO";
